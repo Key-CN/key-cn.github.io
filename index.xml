@@ -5,6 +5,25 @@
     <link>https://www.keyss.io/</link>
     <description>Recent content on Key&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.keyss.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Dec 2021 16:22:37 +0800</lastBuildDate><atom:link href="https://www.keyss.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstTest</title>
+      <link>https://www.keyss.io/post/firsttest/</link>
+      <pubDate>Mon, 27 Dec 2021 16:22:37 +0800</pubDate>
+      
+      <guid>https://www.keyss.io/post/firsttest/</guid>
+      <description>Hello Hugo ## test   aaa bbb ccc  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.keyss.io/about/</link>
+      <pubDate>Tue, 21 Dec 2021 00:29:07 +0800</pubDate>
+      
+      <guid>https://www.keyss.io/about/</guid>
+      <description>Test About 1. 1231 2. eqwfsdalfjas * sadfasdfas * l缩紧scads</description>
+    </item>
+    
   </channel>
 </rss>

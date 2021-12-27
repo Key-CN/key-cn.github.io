@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Key&#39;s Blog</title>
+    <link>https://www.keyss.io/post/</link>
+    <description>Recent content in Posts on Key&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Dec 2021 16:22:37 +0800</lastBuildDate><atom:link href="https://www.keyss.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstTest</title>
+      <link>https://www.keyss.io/post/firsttest/</link>
+      <pubDate>Mon, 27 Dec 2021 16:22:37 +0800</pubDate>
+      
+      <guid>https://www.keyss.io/post/firsttest/</guid>
+      <description>Hello Hugo ## test   aaa bbb ccc  </description>
+    </item>
+    
+  </channel>
+</rss>
