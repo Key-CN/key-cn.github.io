@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.keyss.io/sitemap.xml
