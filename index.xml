@@ -16,14 +16,5 @@
       <description>Hello Hugo ## test   aaa bbb ccc  </description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>https://www.keyss.io/about/</link>
-      <pubDate>Tue, 21 Dec 2021 00:29:07 +0800</pubDate>
-      
-      <guid>https://www.keyss.io/about/</guid>
-      <description>Test About 1. 1231 2. eqwfsdalfjas * sadfasdfas * l缩紧scads</description>
-    </item>
-    
   </channel>
 </rss>
